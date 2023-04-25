@@ -21,6 +21,7 @@ class Program
 | '--------------' || '--------------' || '--------------' |
  '----------------'  '----------------'  '----------------' 
 
+for now it launches ping.exe
 ";
         Console.WriteLine(entryArt);
 
